@@ -26,4 +26,4 @@
 
 ## License
 
-Swift Infinite Loop Bar is distributed under the MIT license. See [LICENSE](https://github.com/duonghominhhuy/swift-ig-image-viewer/blob/master/LICENSE) for details.
+Swift Infinite Loop Bar is distributed under the MIT license. See [LICENSE](https://github.com/duonghominhhuy/swift-infinite-loop-bar/blob/master/LICENSE) for details.
