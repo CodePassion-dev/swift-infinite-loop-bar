@@ -551,8 +551,8 @@ class InfiniteTabBar: UIScrollView, UIScrollViewDelegate, UIGestureRecognizerDel
                     var oldX: CGFloat = oldItem?.frame.origin.x ?? 0.0
                     oldX += (tabContainerView?.frame.origin.x ?? 0.0)
                     
-                    
-                    setContentOffset(CGPoint(x: oldX + ((oldItem?.frame.size.width ?? 0) / 2.0) - (frame.size.width / 2.0), y: 0), animated: true)
+                    let x: CGFloat = oldX + ((oldItem?.frame.size.width ?? 0) / 2.0) - (frame.size.width / 2.0)
+                    setContentOffset(CGPoint(x: x, y: 0), animated: true)
                 }
                 scrollAnimationCheck = true
             }
