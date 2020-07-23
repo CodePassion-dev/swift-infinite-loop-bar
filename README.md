@@ -21,8 +21,10 @@
 
 ## Find me on:
 
-- Twitter [@duonghominhhuy](https://twitter.com/duonghominhhuy)
-- Facebook Page [/apple.developer.page](https://www.fb.com/apple.developer.page)
+- [Website](https://codepassion.dev)
+- [GitHub](https://github.com/duonghominhhuy)
+- [Twitter](https://twitter.com/duonghominhhuy)
+- [Facebook](https://www.facebook.com/codepassion.dev)
 
 ## License
 
