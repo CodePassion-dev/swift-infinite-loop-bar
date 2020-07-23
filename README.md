@@ -3,7 +3,7 @@
 [![Version](http://img.shields.io/badge/version-1.0.0-green.svg?style=flat)](https://github.com/duonghominhhuy/swift-infinite-loop-bar)
 [![Github All Releases](https://img.shields.io/github/downloads/duonghominhhuy/swift-infinite-loop-bar/total.svg)](https://github.com/duonghominhhuy/swift-infinite-loop-bar)
 [![Twitter](https://img.shields.io/badge/twitter-@duonghominhhuy-blue.svg?style=flat)](http://twitter.com/duonghominhhuy)
-[![Facebook](https://img.shields.io/badge/facebook-@apple.developer.page-blue.svg?style=flat)](https://www.facebook.com/apple.developer.page)
+[![Facebook](https://img.shields.io/badge/facebook-@codepassion.dev-blue.svg?style=flat)](https://www.facebook.com/codepassion.dev)
 
 ## Features
 
